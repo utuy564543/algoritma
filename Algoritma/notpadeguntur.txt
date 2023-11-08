@@ -1,0 +1,4 @@
+>. Nama mahasiswa dan nilai(sudah terbaca)
+>. Kalau mahasiswa mendapat nilai >70 maka ket "lulus"
+>. kalau mahasiswa mendapat nilai <70 maka ket " tidak lulus"
+>. Data nama, nilai dan keterangan akan di tampilkan
